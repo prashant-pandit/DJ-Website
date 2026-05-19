@@ -1,0 +1,8 @@
+{
+  "name": "Vibe Architect",
+  "description": "Premium Open-Format DJ portfolio and booking platform for luxury events.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
